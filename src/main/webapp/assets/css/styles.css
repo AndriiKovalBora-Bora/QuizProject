@@ -1,0 +1,11 @@
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+.linkButton {
+    background: none;
+    border: none;
+    color: #0066ff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
